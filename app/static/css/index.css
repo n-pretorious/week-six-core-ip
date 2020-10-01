@@ -49,6 +49,17 @@ form {
     align-items: flex-end;
 }
 
+form input[type="text"] {
+    width: 100%;
+    font-family: Lato;
+    font-size: 18px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #F3F6F6;
+    margin-bottom: 10px;
+}
+
 form textarea {
     width: 100%;
     font-family: Lato;
