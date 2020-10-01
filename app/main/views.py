@@ -3,6 +3,7 @@ from flask import render_template, request, redirect, url_for
 from . import main
 from .. import db
 from datetime import datetime
+from flask_login import login_required
 
 
 @main.route('/')
