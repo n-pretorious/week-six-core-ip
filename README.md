@@ -1,7 +1,7 @@
 # week six core ip
 A simple flask project template with Bootstrap, a full testing suite.
 
-## Install proj 
+## Install project
 
 - Create your virtualenv
 - `git clone https://github.com/n-pretorious/week-six-core-ip.git`
